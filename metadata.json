@@ -1,0 +1,5 @@
+{
+  "name": "Secure Online Learning Platform",
+  "description": "A secure online learning platform for ELE201 Secure Coding assignment, demonstrating secure coding practices with role-based access for Admins, Instructors, and Students.",
+  "requestFramePermissions": []
+}
